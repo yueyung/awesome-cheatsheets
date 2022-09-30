@@ -121,7 +121,5 @@
 - [Ubuntu](tools/ubuntu.sh)
   </details>
 
-## 🙌🏼 How to Contribute?
-
-All those comes from github, collect for study 
+## 🙌🏼 All those comes from github, collect for study 
 
