@@ -123,5 +123,5 @@
 
 ## 🙌🏼 How to Contribute?
 
-You are more than welcome to contribute and build your own cheat sheet for your favorite programming language, framework or development tool. Just submit changes via pull request and I will review them before merging.
+All those comes from github, collect for study 
 
