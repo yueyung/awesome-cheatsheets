@@ -12,12 +12,6 @@ I usually make a cheat sheet when I want to improve my skills in a programming l
 
 Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
 
-## 🎥 You can click on the banner below to discover my YouTube about coding, growth and productivity
-
-<a href="https://www.youtube.com/channel/UC3Xno2xrHKEPqzd8ZZK02gg/videos?sub_confirmation=1" target="_blank">
-   <img src="https://github.com/LeCoupa/LeCoupa/raw/master/images/youtube_cover.png?raw=true"/>
-</a>
-
 ## 📚 Table of Contents
 
 ### 📃 Languages
@@ -136,8 +130,3 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 You are more than welcome to contribute and build your own cheat sheet for your favorite programming language, framework or development tool. Just submit changes via pull request and I will review them before merging.
 
-## 👩‍💻👨‍💻 Our valuable Contributors
-
-<p align="center"><a href="https://github.com/LeCoupa/awesome-cheatsheets/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=LeCoupa/awesome-cheatsheets" />
-</a></p>
